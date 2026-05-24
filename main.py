@@ -1,7 +1,6 @@
 #%%
 
 #%%
-
 import json
 
 from inventory import get_device_by_name
