@@ -17,5 +17,4 @@ def execute_command(device, command):
         return output
     except Exception as e:
         return str(e)
-
 #%%

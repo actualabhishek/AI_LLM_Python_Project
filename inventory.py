@@ -21,4 +21,3 @@ def get_devices_by_location(location):
             result.append(device)
             break
     return result
-#%%

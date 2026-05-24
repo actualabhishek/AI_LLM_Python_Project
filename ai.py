@@ -21,4 +21,3 @@ def get_ai_response(messages, tools):
         tools=tools,
     )
     return response
-#%%
